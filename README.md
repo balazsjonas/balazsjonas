@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Balázs
 - 👀 I’m interested in economics and backend development.
-- 🌱 I’m currently learning java, PostgreSql, Docker.
+- 🌱 I’m currently learning java, R, PostgreSql, Docker.
 
 
 <!---
